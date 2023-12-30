@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/itsanurag707" target="blank"><img src="https://img.shields.io/twitter/follow/itsanurag707?logo=twitter&style=for-the-badge" alt="itsanurag707" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, python**
+- 🌱 I’m currently learning **JavaScript, Reactjs**
 
-- 💬 Ask me about **python, c ,web dev**
+- 💬 Ask me about **JavaScript, c ,web dev**
 
 - 📫 How to reach me **itsanurag707@gmail.com**
 
